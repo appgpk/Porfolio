@@ -3,6 +3,15 @@
 Welcome to my data and research portfolio.  
 Here I present selected projects related to **data analysis, causal inference, experimental economics, and business analytics**.
 
+Most of the projects presented here are **academic research projects**. However, they still showcase the analytical and technical skills I use when working with data.
+
+In addition to the projects listed here, I have worked on other unpublished projects such as:
+- Solving macroeconomic models using **Dynare**
+- Programming **genetic algorithms**
+
+
+If you are primarily interested in my **business analytics projects**, please scroll down to the end of the page.
+
 ---
 
 # Political Economy
