@@ -18,8 +18,8 @@ Here I present selected projects related to **data analysis, causal inference, e
 
 | Project Link | Area | Project Description |
 |--------------|------|--------------------|
-| [Terrorism and Democracy in Burkina Faso](https://github.com/YOURUSERNAME/Terrorism-and-democracy-bf) | Causal Inference | Empirical analysis studying the relationship between terrorism exposure and democratic preferences using survey and conflict event data. |
-| [Burkina Faso Terrorism Map](https://github.com/YOURUSERNAME/Burkina-Faso-5terrorism-mapd) | Geospatial Analysis | Visualization and spatial analysis of violent events in Burkina Faso using conflict event datasets. |
+| [Terrorism and Democracy in Burkina Faso](https://github.com/appgpk/Terrorism-and-democracy-bf) | Causal Inference | Empirical analysis studying the relationship between terrorism exposure and democratic preferences using survey and conflict event data. |
+| [Burkina Faso Terrorism Map](https://github.com/appgpk/Burkina-Faso-5terrorism-mapd) | Geospatial Analysis | Visualization and spatial analysis of violent events in Burkina Faso using conflict event datasets. |
 
 ---
 
