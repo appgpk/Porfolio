@@ -27,8 +27,8 @@ Here I present selected projects related to **data analysis, causal inference, e
 
 | Project Link | Area | Project Description |
 |--------------|------|--------------------|
-| [Choice Prediction](https://github.com/YOURUSERNAME/choice_prediction) | Machine Learning | Classification models predicting individual choices using structured datasets and feature engineering. |
-| [Demand Estimation](https://github.com/YOURUSERNAME/demand_estimation) | Econometrics | Econometric demand estimation project using statistical modeling techniques. |
+| [Choice Prediction](https://github.com/appgpk/choice_prediction) | Machine Learning | Classification models predicting individual choices using structured datasets and feature engineering. |
+| [Demand Estimation](https://github.com/appgpk/demand_estimation) | Econometrics | Econometric demand estimation project using statistical modeling techniques. |
 
 ---
 
@@ -47,4 +47,4 @@ Here I present selected projects related to **data analysis, causal inference, e
 
 | Project Link | Area | Project Description |
 |--------------|------|--------------------|
-| [Epiphanie Boutique Analytics](https://github.com/YOURUSERNAME/Epiphanie_boutique) | Business Data Analysis | Data analysis of product performance, customer preferences, and sales patterns using business transaction data. |
+| [Epiphanie Boutique Analytics](https://github.com/appgpk/Epiphanie_boutique) | Business Data Analysis | Data analysis of product performance, customer preferences, and sales patterns using business transaction data. |
