@@ -16,35 +16,33 @@ Here I present selected projects related to **data analysis, causal inference, e
 
 # Political Economy
 
-| Project Link | Area | Project Description |
-|--------------|------|--------------------|
-| [Terrorism and Democracy in Burkina Faso](https://github.com/appgpk/Terrorism-and-democracy-bf) | Causal Inference | Empirical analysis studying the relationship between terrorism exposure and democratic preferences using survey and conflict event data. |
-| [Burkina Faso Terrorism Map](https://github.com/appgpk/Burkina-Faso-5terrorism-mapd) | Geospatial Analysis | Visualization and spatial analysis of violent events in Burkina Faso using conflict event datasets. |
+| Project Link | Area | Tools | Project Description |
+|--------------|------|------|--------------------|
+| [Terrorism and Democracy in Burkina Faso](https://github.com/appgpk/Terrorism-and-democracy-bf) | Causal Inference | Stata, GIS, Afrobarometer, ACLED | Empirical analysis studying the relationship between terrorism exposure and democratic preferences using survey and conflict event data. |
+| [Burkina Faso Terrorism Map](https://github.com/appgpk/Burkina-Faso-5terrorism-mapd) | Geospatial Analysis | Python, GeoPandas, GIS | Visualization and spatial analysis of violent events in Burkina Faso using conflict event datasets. |
 
 ---
 
 # Machine Learning & Econometrics
 
-| Project Link | Area | Project Description |
-|--------------|------|--------------------|
-| [Choice Prediction](https://github.com/appgpk/choice_prediction) | Machine Learning | Classification models predicting individual choices using structured datasets and feature engineering. |
-| [Demand Estimation](https://github.com/appgpk/demand_estimation) | Econometrics | Econometric demand estimation project using statistical modeling techniques. |
+| Project Link | Area | Tools | Project Description |
+|--------------|------|------|--------------------|
+| [Choice Prediction](https://github.com/appgpk/choice_prediction) | Machine Learning | Python, Scikit-learn, Pandas | Classification models predicting individual choices using structured datasets and feature engineering. |
+| [Demand Estimation](https://github.com/appgpk/demand_estimation) | Econometrics | Python, NumPy, Pandas | Econometric demand estimation project using statistical modeling techniques. |
 
 ---
 
 # Experimental Economics
 
-| Project Link | Experiment Type | Project Description |
-|--------------|----------------|--------------------|
-| [Being Human Experiment](https://github.com/YOURUSERNAME/beinghumanexperiment) | Behavioral Experiment | Interactive experiment designed to measure behavioral responses in decision-making tasks. |
-| [Effort Risk](https://github.com/YOURUSERNAME/effort_risk) | Risk & Effort | Experiment studying how individuals allocate effort under risk. |
-| [Risk Dynamics](https://github.com/YOURUSERNAME/riskdynamic) | Dynamic Decisions | Experimental study of risk preferences over repeated choices. |
-| [CDKW Belief Elicitation](https://github.com/YOURUSERNAME/CDKW-belief-elicitation) | Belief Measurement | Experiment designed to elicit subjective expectations and beliefs. |
+Some of the projects listed below were developed as part of research collaborations where I was hired to implement the experimental infrastructure.  
+For confidentiality reasons, the code and detailed documentation for those projects are not publicly available.  
+Only experiments that I personally designed are available as public repositories.
+
+| Project Link | Experiment Type | Tools | Project Description |
+|--------------|----------------|------|--------------------|
+| Being Human Experiment |  | oTree, Python, HTML, JavaScript , CSS| |
+| Effort Risk |  | oTree, Python, HTML, JavaScript , CSS| |
+| Risk Dynamics | | oTree, Python, HTML, JavaScript , CSS |  |
+| [Epiphanie Boutique — Shoe Preference Experiment](https://github.com/appgpk/epiphanie_boutique) | Data Collection  |oTree, Python, HTML, JavaScript , CSS | Image-based 👍/👎 preference experiment used to collect customer feedback on shoe designs before importing inventory. |
 
 ---
-
-# Business Analytics
-
-| Project Link | Area | Project Description |
-|--------------|------|--------------------|
-| [Epiphanie Boutique Analytics](https://github.com/appgpk/Epiphanie_boutique) | Business Data Analysis | Data analysis of product performance, customer preferences, and sales patterns using business transaction data. |
