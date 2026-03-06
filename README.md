@@ -43,6 +43,16 @@ Only experiments that I personally designed are available as public repositories
 | Being Human Experiment |  | oTree, Python, HTML, JavaScript , CSS| |
 | Effort Risk |  | oTree, Python, HTML, JavaScript , CSS| |
 | Risk Dynamics | | oTree, Python, HTML, JavaScript , CSS |  |
-| [Epiphanie Boutique — Shoe Preference Experiment](https://github.com/appgpk/epiphanie_boutique) | Data Collection  |oTree, Python, HTML, JavaScript , CSS | Image-based 👍/👎 preference experiment used to collect customer feedback on shoe designs before importing inventory. |
+
 
 ---
+# Project Related to my business
+
+Some of the projects listed below were developed as part of research collaborations where I was hired to implement the experimental infrastructure.  
+For confidentiality reasons, the code and detailed documentation for those projects are not publicly available.  
+Only experiments that I personally designed are available as public repositories.
+
+| Project Link | Project Type | Tools | Project Description |
+|--------------|----------------|------|--------------------|
+| [Epiphanie Boutique — Shoe Preference Experiment](https://github.com/appgpk/epiphanie_boutique) | Data Collection  |oTree, Python, HTML, JavaScript , CSS | Image-based 👍/👎 preference experiment used to collect customer feedback on shoe designs before importing inventory. |
+| [Épiphanie Boutique – Sales and Product Performance Analysis](https://github.com/appgpk/analysis_epiphanie_boutique) | Data Cleanning and Data analysis | Python |This project analyzes sales data from Épiphanie Boutique, a small retail business that sells shoes, bags, accessories, and beauty products. The business originally operated as an online store, and later expanded to include a physical retail location. |
