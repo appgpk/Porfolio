@@ -48,9 +48,6 @@ Only experiments that I personally designed are available as public repositories
 ---
 # Project Related to my business
 
-Some of the projects listed below were developed as part of research collaborations where I was hired to implement the experimental infrastructure.  
-For confidentiality reasons, the code and detailed documentation for those projects are not publicly available.  
-Only experiments that I personally designed are available as public repositories.
 
 | Project Link | Project Type | Tools | Project Description |
 |--------------|----------------|------|--------------------|
